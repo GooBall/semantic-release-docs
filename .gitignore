@@ -1,4 +1,6 @@
 node_modules
-.netlify
+
 public/*js*
 public/*css*
+
+.netlify

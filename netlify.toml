@@ -6,3 +6,8 @@
   from = "/*"
   to = "/index.html"
   status = 200
+
+[dev]
+  command = "npm run dev" # Command to start your dev server
+  port = 5000 # Port that the dev server will be listening on
+  publish = "public" # Folder with the static content for _redirect file
